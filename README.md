@@ -20,9 +20,8 @@ This application allows users to upload PDF documents, extract content, generate
 
 If you find this project valuable and would like to support its continued development, consider making a financial contribution. Your support helps in maintaining the project and ensuring regular updates.
 
- you can buy me a coffee:
+<a href="https://www.buymeacoffee.com/ankityadavd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
-- [Buy me a coffee](https://www.buymeacoffee.com/ankityadavd)
 
 Your contribution is greatly appreciated!
 
